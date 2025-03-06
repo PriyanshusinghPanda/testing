@@ -1,0 +1,1 @@
+web: cd blinkitapp && gunicorn app:app 
